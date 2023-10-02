@@ -2,7 +2,7 @@
 
 Original link: [https://www.healthyhacker.com/2014/07/29/why-i-use-vim/](https://www.healthyhacker.com/2014/07/29/why-i-use-vim/)
 
-Healthy hacker episode one. Welcome to the healthy hacker, where we talk about programming, puzzles, memory, fitness, diet, and everything else that you a healthy hacker find Interesting. I'm Chris Hunt, and on the very first episode episode one, I'm going to answer a question? I get all the time, every `conference` I go to, every time I start a new job, every time I pair with somebody new. And that is: Chris, why do you use vim? Out of all the text editor on the planet, why do you choose to use Vim?
+Healthy hacker episode one. Welcome to the healthy hacker, where we talk about programming, puzzles, memory, fitness, diet, and everything else that you a healthy hacker find Interesting. I'm Chris Hunt, and on the very first episode episode one, I'm going to answer a question? I get all the time, every `conference` I go to, every time I start a new job, every time I pair with somebody new. And that is: Chris, why do you use vim? At of all the text editor on the planet, why do you choose to use Vim?
 
 It's so old it looks like `crap`. Why do you do it? So I'm totally going to tell you I have many valid reasons why I love using Vim really excited about it, going to answer that question before we do though, we are going to talk about the workout of the week tana, all right. The workout of the week is a section that, uh, basically, I'm just going to take a workout I've done recently, and tell you about it, and hopefully you find the time this week to try it yourself, because every single one of these workouts you can do,
 
